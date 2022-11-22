@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top-bar {
+    background-color: rgb(67, 67, 67);
+    color: aliceblue;
+    padding: 1rem;
+}
+
+.btn {
+    background: coral;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 0.7rem 2rem;
+}
+
+.btn:hover {
+    opacity: 0.85;
+}
+
+.page-info {
+    margin-left: 1rem;
+}
+
+.error{
+    background: orangered;
+    color: white;
+    padding: 1rem;
+}
